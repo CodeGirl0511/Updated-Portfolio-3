@@ -1,0 +1,36 @@
+
+
+.nav-item{
+    color: #D45553;
+  }
+
+body {
+margin-top: 50px;
+}
+
+.jumbotron{
+background-color: powderblue;}
+
+.card {
+  background-color: powderblue;
+
+}
+
+.checked {
+  color: orange;
+}
+
+
+hr.rounded {
+  border-top: 8px solid darkgreen;
+  border-radius: 5px;
+}
+
+.card {
+background-color: skyblue;
+
+}
+
+.card1 {
+  background-color:darkcyan;
+}
